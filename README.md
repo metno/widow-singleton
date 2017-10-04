@@ -18,6 +18,6 @@ A possible scenario:
   2. Job 2 is discarted because Job 1 is still running
   3. Job 1 ends
   4. Job 3 starts
-  5. Job 4 is discarded because Job 1 is still running
+  5. Job 4 is discarded because Job 3 is still running
   6. Job 5 kills job 3 and starts
   7. Job 5 ends
